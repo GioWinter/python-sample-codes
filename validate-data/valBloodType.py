@@ -22,7 +22,7 @@ def valBloodType(type):
     status_match = re.match(pattern,type.upper())
 
     if status_match:
-        result = "valid"
+        score = '001' # Valid blood type
     else:
-        result = "invalid"
-    return result
+        score = '002' # Blood type not registered or invalid format. 
+    return score
