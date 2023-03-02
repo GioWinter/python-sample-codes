@@ -2,6 +2,7 @@
 # Create By....: Giovani Winter Pacheco
 # Version......: 1.0
 # last Update..: 02/03/2023
+# Function Name: valEmail
 # Notes........: All functions are available to be used not commercially but to contribute to the data governance and quality community.
 # last changes.:
 #              --- 01/03 - Function that aims to validate the email returning a data score. 
