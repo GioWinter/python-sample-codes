@@ -58,4 +58,4 @@ def valBirthDate(input):
   else:
     score = '099' # Unmapped error message
 
-  return score,dataObject 
+  return score 
