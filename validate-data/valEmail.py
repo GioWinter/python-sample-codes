@@ -58,4 +58,4 @@ def valEmail(input):
     score = '099' # Unmapped error.
     rtrn = email
 
-  return(score,rtrn)
+  return score
